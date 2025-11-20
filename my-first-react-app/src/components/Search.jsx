@@ -3,7 +3,7 @@ const Search = ({searchTerm, setSearchTerm}) => {
     return (
         <div className="search">
             <div>
-                <img src="search.svg" alt="search" />
+                <img src="/full-stack-movie-App/search.svg" alt="search" />
 
                 <input
                     type="text"
